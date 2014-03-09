@@ -1,4 +1,4 @@
-package com.yycoder;
+package com.yycoder.mycodej2se;
 
 /**
  * Hello world!
