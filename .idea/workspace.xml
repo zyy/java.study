@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cd2d09c-6c0d-4e34-8439-5111747398c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/sort/BubbleSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/search/BinarySearch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/sort/BubbleSort.java" afterPath="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/sort/BubbleSort.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mycode.iws" />
@@ -11,7 +12,7 @@
     <file path="/a.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394353686798" ignored="false" />
     <file path="/sample.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394353684050" ignored="false" />
     <file path="/fragment.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394411388941" ignored="false" />
-    <file path="/Dummy.txt" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394412014174" ignored="false" />
+    <file path="/Dummy.txt" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394424726577" ignored="false" />
     <file path="/ArrayCopy.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394373513503" ignored="false" />
     <file path="/Recursive.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394411748988" ignored="false" />
     <file path="$PROJECT_DIR$/../../skycenter/trunk/src/SkycenterService/Skyc-MessageRouter/src/main/scala/skycenter/messagerouter/model/UserBean.scala" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394415877624" ignored="false" />
@@ -22,7 +23,8 @@
     <file path="/MonitorActor.scala" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394417499624" ignored="false" />
     <file path="$PROJECT_DIR$/../../skycenter/trunk/src/SkycenterService/Skyc-MessageRouter/src/main/resources/tmssetup.xml" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394417752698" ignored="false" />
     <file path="$PROJECT_DIR$/../../skycenter/trunk/src/SkycenterService/Skyc-MessageRouter/src/main/resources/cluster.conf" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394417773604" ignored="false" />
-    <file path="/BubbleSort.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394424595165" ignored="false" />
+    <file path="/BubbleSort.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394424824994" ignored="false" />
+    <file path="/BinarySearch.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394425390159" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,10 +115,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BubbleSort.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BubbleSort.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/sort/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="67" selection-start="644" selection-end="644" vertical-scroll-proportion="0.49909255">
+            <state line="29" column="10" selection-start="833" selection-end="899" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinarySearch.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/search/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="45" selection-start="1032" selection-end="1034" vertical-scroll-proportion="0.65960664">
               <folding />
             </state>
           </provider>
@@ -130,10 +141,8 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="SYNC_SETTING" value="DONT" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
   </component>
   <component name="GitLogSettings">
     <option name="myStructureFilterPaths" />
@@ -151,6 +160,7 @@
         <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArrayCopy.java" />
         <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/Recursive.java" />
         <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/search/BinarySearch.java" />
       </list>
     </option>
   </component>
@@ -273,110 +283,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycode-j2se" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycode-j2se" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sort" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycode-j2se" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="array" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycode-j2se" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="j2se" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -402,6 +308,14 @@
     <property name="options.splitter.details.proportions" value="0.23205742" />
     <property name="options.searchVisible" value="true" />
   </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ecworkspace\mycode\mycode-spring" />
@@ -412,29 +326,7 @@
       <recent name="com.yycoder.mycodej2se" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
-    <configuration default="false" name="App" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.yycoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.yycoder.mycodej2se.App" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mycode-j2se" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.BinarySearch">
     <configuration default="false" name="ArrayTest" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -509,6 +401,28 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.yycoder.j2se.sort.BubbleSort" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mycode-j2se" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BinarySearch" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.yycoder.j2se.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.yycoder.j2se.search.BinarySearch" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -636,19 +550,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.App" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ArrayTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ArrayCopy" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Recursive" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BubbleSort" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ArrayTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ArrayCopy" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Recursive" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BubbleSort" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BinarySearch" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BubbleSort" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Recursive" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ArrayCopy" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ArrayTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.App" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BinarySearch" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BubbleSort" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Recursive" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ArrayCopy" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ArrayTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -690,7 +604,11 @@
       <created>1394412045705</created>
       <updated>1394412045705</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="冒泡排序">
+      <created>1394424731244</created>
+      <updated>1394424731244</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -715,7 +633,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947975" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -735,8 +653,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33495936" sideWeight="0.67154473" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2202454" sideWeight="0.67283237" order="0" side_tool="false" content_ui="combo" x="534" y="72" width="212" height="615" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32716763" sideWeight="0.49349594" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2202454" sideWeight="0.8" order="0" side_tool="false" content_ui="combo" x="534" y="72" width="212" height="615" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2" sideWeight="0.49349594" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -782,7 +700,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="递归实例" />
+    <option name="LAST_COMMIT_MESSAGE" value="冒泡排序" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -797,6 +715,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="tt" />
     <MESSAGE value="递归实例" />
+    <MESSAGE value="冒泡排序" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -840,13 +759,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="22" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="56" selection-start="773" selection-end="773" vertical-scroll-proportion="0.0">
@@ -931,7 +843,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/sort/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="67" selection-start="644" selection-end="644" vertical-scroll-proportion="0.49909255">
+        <state line="29" column="10" selection-start="833" selection-end="899" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/search/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="45" selection-start="1032" selection-end="1034" vertical-scroll-proportion="0.65960664">
           <folding />
         </state>
       </provider>
