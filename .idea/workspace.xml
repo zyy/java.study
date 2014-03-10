@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cd2d09c-6c0d-4e34-8439-5111747398c9" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\ecworkspace\mycode\mycode-j2se\src\main\java\com\yycoder\mycodej2se\Sort.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/mycodej2se/ArrayCopy.java" afterPath="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/mycodej2se/ArrayCopy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/Recursive.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\projects\mycode\mycode\mycode-j2se\src\main\java\com\yycoder\mycodej2se\ArrayCopy.java" afterPath="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArrayCopy.java" />
+      <change type="MOVED" beforePath="E:\projects\mycode\mycode\mycode-j2se\src\main\java\com\yycoder\mycodej2se\ArrayTest.java" afterPath="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArrayTest.java" />
     </list>
     <ignored path="mycode.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/ArrayTest.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394353874617" ignored="false" />
     <file path="/a.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394353686798" ignored="false" />
     <file path="/sample.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394353684050" ignored="false" />
-    <file path="/fragment.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394373644066" ignored="false" />
-    <file path="/Dummy.txt" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394374196578" ignored="false" />
+    <file path="/fragment.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394411388941" ignored="false" />
+    <file path="/Dummy.txt" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394411104999" ignored="false" />
     <file path="/ArrayCopy.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394373513503" ignored="false" />
+    <file path="/Recursive.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394411748988" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +35,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -67,7 +70,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -78,7 +80,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="ArrayTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/mycodej2se/ArrayTest.java">
+        <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArrayTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="14" column="11" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
               <folding />
@@ -86,19 +88,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayCopy.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/mycodej2se/ArrayCopy.java">
+      <file leaf-file-name="ArrayCopy.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArrayCopy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="57" selection-start="120" selection-end="120" vertical-scroll-proportion="0.2857143">
+            <state line="8" column="26" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="System.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Java/jdk1.6.0_35/src.zip!/java/lang/System.java">
+      <file leaf-file-name="Recursive.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/Recursive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="445" column="30" selection-start="17724" selection-end="17724" vertical-scroll-proportion="0.0">
+            <state line="11" column="32" selection-start="283" selection-end="283" vertical-scroll-proportion="-0.1814882">
               <folding />
             </state>
           </provider>
@@ -129,6 +131,8 @@
         <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/ArrayTest.java" />
         <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/mycodej2se/ArrayTest.java" />
         <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/mycodej2se/ArrayCopy.java" />
+        <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArrayCopy.java" />
+        <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/Recursive.java" />
       </list>
     </option>
   </component>
@@ -200,8 +204,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="776" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -232,6 +236,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -290,13 +295,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mycodej2se" />
+              <option name="myItemId" value="array" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mycode-j2se" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="j2se" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -316,19 +350,21 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.23205742" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.23205742" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ecworkspace\mycode\mycode-spring" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.yycoder.j2se" />
+      <recent name="com.yycoder.j2se.array" />
       <recent name="com.yycoder.mycodej2se" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayCopy">
+  <component name="RunManager" selected="Application.Recursive">
     <configuration default="false" name="App" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -358,7 +394,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.yycoder.mycodej2se.ArrayTest" />
+      <option name="MAIN_CLASS_NAME" value="com.yycoder.j2se.array.ArrayTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -380,12 +416,34 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.yycoder.mycodej2se.ArrayCopy" />
+      <option name="MAIN_CLASS_NAME" value="com.yycoder.j2se.array.ArrayCopy" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mycode-j2se" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Recursive" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.yycoder.j2se.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.yycoder.j2se.Recursive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -430,19 +488,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -469,6 +514,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -507,17 +565,19 @@
       <patterns />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.App" />
       <item index="1" class="java.lang.String" itemvalue="Application.ArrayTest" />
       <item index="2" class="java.lang.String" itemvalue="Application.ArrayCopy" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Recursive" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.ArrayCopy" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ArrayTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.App" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Recursive" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ArrayCopy" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ArrayTest" />
         <item index="3" class="java.lang.String" itemvalue="Application.App" />
+        <item index="4" class="java.lang.String" itemvalue="Application.App" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -559,14 +619,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495935" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.500813" order="7" side_tool="true" content_ui="tabs" />
@@ -579,8 +640,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33495936" sideWeight="0.67154473" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2203252" sideWeight="0.6726094" order="0" side_tool="false" content_ui="combo" x="534" y="72" width="212" height="615" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3273906" sideWeight="0.49349594" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2202454" sideWeight="0.67283237" order="0" side_tool="false" content_ui="combo" x="534" y="72" width="212" height="615" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32716763" sideWeight="0.49349594" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -683,14 +744,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/mycodej2se/ArrayTest.java">
+    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="11" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/mycodej2se/ArrayTest.java">
+    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="22" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
           <folding />
@@ -751,23 +812,30 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/mycodej2se/ArrayTest.java">
+    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="11" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.6.0_35/src.zip!/java/lang/System.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="445" column="30" selection-start="17724" selection-end="17724" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/mycodej2se/ArrayCopy.java">
+    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArrayCopy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="57" selection-start="120" selection-end="120" vertical-scroll-proportion="0.2857143">
+        <state line="8" column="26" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/Recursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="32" selection-start="283" selection-end="283" vertical-scroll-proportion="-0.1814882">
           <folding />
         </state>
       </provider>

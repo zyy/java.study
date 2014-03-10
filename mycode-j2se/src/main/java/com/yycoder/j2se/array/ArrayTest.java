@@ -1,4 +1,4 @@
-package com.yycoder.mycodej2se;
+package com.yycoder.j2se.array;
 
 /**
  * Created with IntelliJ IDEA.
