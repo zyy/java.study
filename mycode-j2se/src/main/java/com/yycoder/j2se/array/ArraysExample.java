@@ -12,7 +12,6 @@ import java.util.List;
  */
 public class ArraysExample {
     public static void main(String[] args) {
-
         List<String> list = Arrays.asList("yycoder", "zyy");
         System.out.println(list.getClass());
         System.out.println(Arrays.toString(list.toArray()));
