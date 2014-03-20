@@ -9,6 +9,7 @@
     <modules>
         <module>mycode-spring</module>
         <module>mycode-j2se</module>
+        <module>mycode-designpattern</module>
     </modules>
 
     <name>mycode</name>

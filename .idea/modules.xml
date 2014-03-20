@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mycode.iml" filepath="$PROJECT_DIR$/mycode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycode-designpattern/mycode-designpattern.iml" filepath="$PROJECT_DIR$/mycode-designpattern/mycode-designpattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/mycode-j2se/mycode-j2se.iml" filepath="$PROJECT_DIR$/mycode-j2se/mycode-j2se.iml" />
       <module fileurl="file://$PROJECT_DIR$/mycode-spring/mycode-spring.iml" filepath="$PROJECT_DIR$/mycode-spring/mycode-spring.iml" />
     </modules>
