@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cd2d09c-6c0d-4e34-8439-5111747398c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/FactoryTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/MailSender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/SendFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/Sender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/SmsSender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/mycode-designpattern.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mycode-j2se/mycode-j2se.iml" afterPath="$PROJECT_DIR$/mycode-j2se/mycode-j2se.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/AbstractFactoryTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/mutiple/FactoryTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/staticmethod/FactoryTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/MailSender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/MailSenderFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/Provider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/mutiple/SendFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/staticmethod/SendFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/Sender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/singleton/SingletonTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/SmsSender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/SmsSenderFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/singleton/Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mycode.iws" />
@@ -46,11 +46,18 @@
     <file path="$PROJECT_DIR$/../../skycenter/trunk/src/SkycenterService/Skyc-MessageRouter/src/main/resources/application.conf" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394440603472" ignored="false" />
     <file path="$PROJECT_DIR$/../../skycenter/trunk/src/SkycenterService/Skyc-AdsbGW/src/main/scala/skycenter/adsbgw/app/AdsbGWProxy.scala" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394440766381" ignored="false" />
     <file path="/ArraysExample.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1394503230771" ignored="false" />
-    <file path="/Sender.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395286150838" ignored="false" />
-    <file path="/MailSender.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395285751458" ignored="false" />
-    <file path="/SmsSender.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395285829714" ignored="false" />
-    <file path="/SendFactory.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395285997167" ignored="false" />
-    <file path="/FactoryTest.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395286084901" ignored="false" />
+    <file path="/Sender.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395293737319" ignored="false" />
+    <file path="/MailSender.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395293905218" ignored="false" />
+    <file path="/SmsSender.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395293950185" ignored="false" />
+    <file path="/SendFactory.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395293436965" ignored="false" />
+    <file path="/FactoryTest.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395293530187" ignored="false" />
+    <file path="/provider.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395293777232" ignored="false" />
+    <file path="/MailProvider.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395294030643" ignored="false" />
+    <file path="/SmsSenderFactory.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395294122020" ignored="false" />
+    <file path="/AbstractFactoryTest.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395294211609" ignored="false" />
+    <file path="/SingletonTest.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395294696619" ignored="false" />
+    <file path="/Test.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395295225484" ignored="false" />
+    <file path="/Sync.java" changelist="0cd2d09c-6c0d-4e34-8439-5111747398c9" time="1395295537303" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,53 +120,7 @@
     <favorites_list name="mycode" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Sender.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/Sender.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="18" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MailSender.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/MailSender.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="41" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SendFactory.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/SendFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="26" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SmsSender.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/SmsSender.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="46" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FactoryTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/FactoryTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="64" selection-start="272" selection-end="272" vertical-scroll-proportion="0.501002">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -179,22 +140,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/ArrayTest.java" />
-        <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/mycodej2se/ArrayTest.java" />
-        <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/mycodej2se/ArrayCopy.java" />
-        <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArrayCopy.java" />
-        <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/Recursive.java" />
-        <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/sort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/search/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/collection/CompareTime.java" />
-        <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArraysExample.java" />
-        <option value="$PROJECT_DIR$/mycode-designpattern/pom.xml" />
-        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/SmsSender.java" />
-        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/SendFactory.java" />
-        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/MailSender.java" />
-        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/FactoryTest.java" />
-        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/Sender.java" />
+        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/mutiple/SendFactory.java" />
+        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/mutiple/FactoryTest.java" />
+        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/staticmethod/SendFactory.java" />
+        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/staticmethod/FactoryTest.java" />
+        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/Sender.java" />
+        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/provider.java" />
+        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/MailSender.java" />
+        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/SmsSender.java" />
+        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/MailProvider.java" />
+        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/MailSenderFactory.java" />
+        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/SmsSenderFactory.java" />
+        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/AbstractFactoryTest.java" />
+        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/singleton/SingletonTest.java" />
+        <option value="$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/singleton/Test.java" />
+        <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/thread/Test.java" />
+        <option value="$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/thread/Sync.java" />
       </list>
     </option>
   </component>
@@ -400,7 +361,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mycode-designpattern" />
+              <option name="myItemId" value="mycode-j2se" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -414,25 +375,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mycode-designpattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mycode-designpattern" />
+              <option name="myItemId" value="mycode-j2se" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -445,10 +388,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="normal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -496,73 +435,7 @@
       <recent name="com.yycoder.mycodej2se" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FactoryTest">
-    <configuration default="false" name="BinarySearch" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.yycoder.j2se.search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.yycoder.j2se.search.BinarySearch" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mycode-j2se" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CompareTime" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.yycoder.j2se.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.yycoder.j2se.collection.CompareTime" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mycode-j2se" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ArraysExample" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.yycoder.j2se.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.yycoder.j2se.array.ArraysExample" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mycode-j2se" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Sync">
     <configuration default="false" name="App" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -588,11 +461,11 @@
     <configuration default="false" name="FactoryTest" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.yycoder.dp.factorymethod.normal.*" />
+          <option name="PATTERN" value="com.yycoder.dp.factorymethod.staticmethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.yycoder.dp.factorymethod.normal.FactoryTest" />
+      <option name="MAIN_CLASS_NAME" value="com.yycoder.dp.factorymethod.staticmethod.FactoryTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -602,6 +475,72 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="mycode-designpattern" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.yycoder.dp.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.yycoder.dp.abstractfactory.AbstractFactoryTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mycode-designpattern" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.yycoder.dp.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.yycoder.dp.singleton.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mycode-designpattern" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Sync" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.yycoder.j2se.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.yycoder.j2se.thread.Sync" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mycode-j2se" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -720,19 +659,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BinarySearch" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CompareTime" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ArraysExample" />
-      <item index="3" class="java.lang.String" itemvalue="Application.App" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FactoryTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.App" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FactoryTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AbstractFactoryTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Sync" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FactoryTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.App" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CompareTime" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ArraysExample" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BinarySearch" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Sync" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AbstractFactoryTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FactoryTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FactoryTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -811,7 +750,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8520231" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -831,7 +770,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33495936" sideWeight="0.67154473" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24478528" sideWeight="0.61271673" order="0" side_tool="false" content_ui="combo" x="534" y="72" width="212" height="615" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27546012" sideWeight="0.61271673" order="0" side_tool="false" content_ui="combo" x="534" y="72" width="480" height="615" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38728324" sideWeight="0.49349594" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -939,114 +878,111 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/collection/CompareTime.java">
+    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/mutiple/SendFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="63" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/ADCC/Java/jdk1.6.0_43/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="575" column="98" selection-start="20165" selection-end="20165" vertical-scroll-proportion="-0.8118812" />
-      </provider>
-    </entry>
-    <entry file="jar://D:/ADCC/Java/jdk1.6.0_43/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="494" column="37" selection-start="18099" selection-end="18124" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mycode-spring/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mycode-spring/mycode-spring.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mycode-designpattern/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="46" selection-start="560" selection-end="560" vertical-scroll-proportion="0.6513026">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/Recursive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="50" selection-start="286" selection-end="286" vertical-scroll-proportion="0.19238476">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArraysExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="60" selection-start="416" selection-end="416" vertical-scroll-proportion="0.7995992">
+        <state line="19" column="31" selection-start="527" selection-end="527" vertical-scroll-proportion="0.7995992">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArrayCopy.java">
+    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/mutiple/FactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="26" selection-start="123" selection-end="123" vertical-scroll-proportion="0.1482966">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/array/ArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="11" selection-start="369" selection-end="369" vertical-scroll-proportion="0.7014028">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/search/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="244" selection-end="244" vertical-scroll-proportion="-0.5691383">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/MailSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="41" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/Sender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="18" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/SendFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="26" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/SmsSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="46" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
+        <state line="15" column="45" selection-start="443" selection-end="443" vertical-scroll-proportion="0.6513026">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/FactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="64" selection-start="272" selection-end="272" vertical-scroll-proportion="0.501002">
+        <state line="10" column="64" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/staticmethod/SendFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="31" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/factorymethod/staticmethod/FactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="70" selection-start="329" selection-end="329" vertical-scroll-proportion="0.501002">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/Sender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="23" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/MailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="24" selection-start="277" selection-end="277" vertical-scroll-proportion="0.5511022">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/SmsSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="46" selection-start="323" selection-end="323" vertical-scroll-proportion="0.6012024">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/Provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="28" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/MailSenderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/SmsSenderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="30" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/abstractfactory/AbstractFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="67" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/singleton/SingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="24" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode-designpattern/src/main/java/com/yycoder/dp/singleton/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="61" selection-start="431" selection-end="431" vertical-scroll-proportion="0.6513026">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode-j2se/src/main/java/com/yycoder/j2se/thread/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="8" selection-start="284" selection-end="284" vertical-scroll-proportion="0.6513026">
           <folding />
         </state>
       </provider>
