@@ -2,82 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cd2d09c-6c0d-4e34-8439-5111747398c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-spring/study-spring.iml" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode-designpattern\target\classes\com\yycoder\dp\abstractfactory\Provider.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode-designpattern\target\classes\com\yycoder\dp\abstractfactory\Sender.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode-designpattern\target\classes\com\yycoder\dp\factorymethod\normal\SendFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode-designpattern\target\classes\com\yycoder\dp\factorymethod\normal\Sender.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode-designpattern\target\classes\com\yycoder\dp\singleton\SingletonTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode-designpattern\target\classes\com\yycoder\dp\singleton\Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode-j2se\target\classes\com\yycoder\j2se\array\ArrayCopy.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode-j2se\target\classes\com\yycoder\j2se\collection\CompareTime.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode-j2se\target\classes\com\yycoder\j2se\search\BinarySearch.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode-j2se\target\classes\com\yycoder\j2se\sort\BubbleSort.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode-j2se\target\classes\com\yycoder\j2se\thread\Sync.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode-j2se\target\classes\com\yycoder\j2se\thread\Test.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode-j2se\target\classes\com\yycoder\mycodej2se\ArrayCopy.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode-j2se\target\classes\com\yycoder\mycodej2se\ArrayTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode-j2se\target\classes\com\yycoder\mycodej2se\Sort.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\mycode.iml" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\abstractfactory\AbstractFactoryTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\abstractfactory\MailSender.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\abstractfactory\MailSenderFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\abstractfactory\SmsSender.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\abstractfactory\SmsSenderFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\factorymethod\mutiple\FactoryTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\factorymethod\mutiple\SendFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\factorymethod\normal\FactoryTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\factorymethod\normal\MailSender.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\factorymethod\normal\SmsSender.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\factorymethod\staticmethod\FactoryTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\factorymethod\staticmethod\SendFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\test-classes\com\yycoder\AppTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-j2se\target\classes\com\yycoder\j2se\Recursive.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-j2se\target\classes\com\yycoder\j2se\array\ArrayTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\work\study\java.study\study-j2se\target\classes\com\yycoder\j2se\array\ArraysExample.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ant.xml" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\mycode-designpattern.iml" afterPath="$PROJECT_DIR$/study.iml" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\pom.xml" afterPath="$PROJECT_DIR$/study-designpattern/pom.xml" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\abstractfactory\AbstractFactoryTest.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/abstractfactory/AbstractFactoryTest.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\abstractfactory\MailSender.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/abstractfactory/MailSender.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\abstractfactory\MailSenderFactory.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/abstractfactory/MailSenderFactory.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\abstractfactory\Sender.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/abstractfactory/Sender.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\abstractfactory\SmsSender.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/abstractfactory/SmsSender.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\abstractfactory\SmsSenderFactory.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/abstractfactory/SmsSenderFactory.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\abstractfactory\provider.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/abstractfactory/provider.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\factorymethod\mutiple\FactoryTest.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/factorymethod/mutiple/FactoryTest.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\factorymethod\mutiple\SendFactory.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/factorymethod/mutiple/SendFactory.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\factorymethod\normal\FactoryTest.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/FactoryTest.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\factorymethod\normal\MailSender.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/MailSender.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\factorymethod\normal\SendFactory.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/SendFactory.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\factorymethod\normal\Sender.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/Sender.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\factorymethod\normal\SmsSender.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/factorymethod/normal/SmsSender.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\factorymethod\staticmethod\FactoryTest.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/factorymethod/staticmethod/FactoryTest.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\factorymethod\staticmethod\SendFactory.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/factorymethod/staticmethod/SendFactory.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\singleton\SingletonTest.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/singleton/SingletonTest.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\main\java\com\yycoder\dp\singleton\Test.java" afterPath="$PROJECT_DIR$/study-designpattern/src/main/java/com/yycoder/dp/singleton/Test.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-designpattern\src\test\java\com\yycoder\AppTest.java" afterPath="$PROJECT_DIR$/study-designpattern/src/test/java/com/yycoder/AppTest.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-j2se\mycode-j2se.iml" afterPath="$PROJECT_DIR$/study-designpattern/study-designpattern.iml" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-j2se\pom.xml" afterPath="$PROJECT_DIR$/study-j2se/pom.xml" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-j2se\src\main\java\com\yycoder\j2se\Recursive.java" afterPath="$PROJECT_DIR$/study-j2se/src/main/java/com/yycoder/j2se/Recursive.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-j2se\src\main\java\com\yycoder\j2se\array\ArrayCopy.java" afterPath="$PROJECT_DIR$/study-j2se/src/main/java/com/yycoder/j2se/array/ArrayCopy.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-j2se\src\main\java\com\yycoder\j2se\array\ArrayTest.java" afterPath="$PROJECT_DIR$/study-j2se/src/main/java/com/yycoder/j2se/array/ArrayTest.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-j2se\src\main\java\com\yycoder\j2se\array\ArraysExample.java" afterPath="$PROJECT_DIR$/study-j2se/src/main/java/com/yycoder/j2se/array/ArraysExample.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-j2se\src\main\java\com\yycoder\j2se\collection\CompareTime.java" afterPath="$PROJECT_DIR$/study-j2se/src/main/java/com/yycoder/j2se/collection/CompareTime.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-j2se\src\main\java\com\yycoder\j2se\search\BinarySearch.java" afterPath="$PROJECT_DIR$/study-j2se/src/main/java/com/yycoder/j2se/search/BinarySearch.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-j2se\src\main\java\com\yycoder\j2se\sort\BubbleSort.java" afterPath="$PROJECT_DIR$/study-j2se/src/main/java/com/yycoder/j2se/sort/BubbleSort.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-spring\mycode-spring.iml" afterPath="$PROJECT_DIR$/study-j2se/study-j2se.iml" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\mycode-spring\pom.xml" afterPath="$PROJECT_DIR$/study-spring/pom.xml" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\src\main\java\com\yycoder\mycode\App.java" afterPath="$PROJECT_DIR$/src/main/java/com/yycoder/study/App.java" />
-      <change type="MOVED" beforePath="D:\work\study\java.study\src\test\java\com\yycoder\mycode\AppTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/yycoder/study/AppTest.java" />
     </list>
     <ignored path="study.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -484,6 +409,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -1002,7 +928,7 @@
       <workItem from="1501225349609" duration="47000" />
       <workItem from="1501225408035" duration="323000" />
       <workItem from="1501225738881" duration="2000" />
-      <workItem from="1501225962317" duration="56000" />
+      <workItem from="1501225962317" duration="116000" />
     </task>
     <task id="LOCAL-00001" summary="tt">
       <created>1394374204109</created>
@@ -1034,11 +960,23 @@
       <option name="project" value="LOCAL" />
       <updated>1394504133144</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="项目名修改">
+      <created>1501226044627</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1501226044627</updated>
+    </task>
+    <task id="LOCAL-00007" summary="项目名修改">
+      <created>1501226065682</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1501226065682</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="817000" />
+    <option name="totallyTimeSpent" value="877000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1066,6 +1004,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947975" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30635837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38709676" sideWeight="0.5058824" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1090,7 +1029,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8520231" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947975" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30635837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1106,7 +1044,8 @@
     <MESSAGE value="冒泡排序" />
     <MESSAGE value="二分查找" />
     <MESSAGE value="Arrays示例代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays示例代码" />
+    <MESSAGE value="项目名修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目名修改" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
