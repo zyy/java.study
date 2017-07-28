@@ -33,8 +33,15 @@
         <module name="mycode-designpattern" />
         <module name="mycode-j2se" />
         <module name="mycode-spring" />
+        <module name="study-spring" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mycode" target="1.5" />
+      <module name="study" target="1.5" />
+      <module name="study-designpattern" target="1.5" />
+      <module name="study-j2se" target="1.5" />
+      <module name="study-spring" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
-

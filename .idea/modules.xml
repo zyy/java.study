@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mycode.iml" filepath="$PROJECT_DIR$/mycode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mycode-designpattern/mycode-designpattern.iml" filepath="$PROJECT_DIR$/mycode-designpattern/mycode-designpattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mycode-j2se/mycode-j2se.iml" filepath="$PROJECT_DIR$/mycode-j2se/mycode-j2se.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mycode-spring/mycode-spring.iml" filepath="$PROJECT_DIR$/mycode-spring/mycode-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study.iml" filepath="$PROJECT_DIR$/study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-designpattern/study-designpattern.iml" filepath="$PROJECT_DIR$/study-designpattern/study-designpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-j2se/study-j2se.iml" filepath="$PROJECT_DIR$/study-j2se/study-j2se.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-spring/study-spring.iml" filepath="$PROJECT_DIR$/study-spring/study-spring.iml" />
     </modules>
   </component>
 </project>
-

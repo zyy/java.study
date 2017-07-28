@@ -7,6 +7,6 @@ package com.yycoder.dp.abstractfactory;
  * Time: 下午1:36
  * To change this template use File | Settings | File Templates.
  */
-public interface Provider {
+interface Provider {
     public Sender produce();
 }

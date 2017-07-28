@@ -3,16 +3,16 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.yycoder</groupId>
-  <artifactId>mycode</artifactId>
+  <artifactId>study</artifactId>
     <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <modules>
-        <module>mycode-spring</module>
-        <module>mycode-j2se</module>
-        <module>mycode-designpattern</module>
+        <module>study-spring</module>
+        <module>study-j2se</module>
+        <module>study-designpattern</module>
     </modules>
 
-    <name>mycode</name>
+    <name>study</name>
   <url>http://maven.apache.org</url>
 
   <properties>

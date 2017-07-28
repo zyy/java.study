@@ -1,4 +1,4 @@
-package com.yycoder.mycode;
+package com.yycoder.study;
 
 /**
  * Hello world!
