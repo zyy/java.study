@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cd2d09c-6c0d-4e34-8439-5111747398c9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="study.iws" />
@@ -1034,7 +1033,7 @@
       <workItem from="1501225349609" duration="47000" />
       <workItem from="1501225408035" duration="323000" />
       <workItem from="1501225738881" duration="2000" />
-      <workItem from="1501225962317" duration="433000" />
+      <workItem from="1501225962317" duration="476000" />
     </task>
     <task id="LOCAL-00001" summary="tt">
       <created>1394374204109</created>
@@ -1084,11 +1083,17 @@
       <option name="project" value="LOCAL" />
       <updated>1501226081934</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="项目名修改">
+      <created>1501226399777</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1501226399777</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1194000" />
+    <option name="totallyTimeSpent" value="1237000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
