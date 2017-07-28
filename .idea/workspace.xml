@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cd2d09c-6c0d-4e34-8439-5111747398c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-j2se/target/classes/com/yycoder/j2se/array/ArrayCopy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-j2se/target/classes/com/yycoder/j2se/search/BinarySearch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-j2se/target/classes/com/yycoder/j2se/sort/BubbleSort.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-j2se/target/classes/com/yycoder/j2se/collection/CompareTime.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-designpattern/target/classes/com/yycoder/dp/abstractfactory/Provider.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-designpattern/target/classes/com/yycoder/dp/factorymethod/normal/SendFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-designpattern/target/classes/com/yycoder/dp/abstractfactory/Sender.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-designpattern/target/classes/com/yycoder/dp/factorymethod/normal/Sender.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-designpattern/target/classes/com/yycoder/dp/singleton/SingletonTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-designpattern/target/classes/com/yycoder/dp/singleton/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\abstractfactory\Provider.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\abstractfactory\Sender.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\factorymethod\normal\SendFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\factorymethod\normal\Sender.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\singleton\SingletonTest.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\study\java.study\study-designpattern\target\classes\com\yycoder\dp\singleton\Test.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\study\java.study\study-j2se\target\classes\com\yycoder\j2se\array\ArrayCopy.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\study\java.study\study-j2se\target\classes\com\yycoder\j2se\collection\CompareTime.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\study\java.study\study-j2se\target\classes\com\yycoder\j2se\search\BinarySearch.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\study\java.study\study-j2se\target\classes\com\yycoder\j2se\sort\BubbleSort.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="study.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -381,6 +380,48 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java.study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java.study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study-spring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java.study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study-j2se" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java.study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study-designpattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -933,7 +974,7 @@
       <workItem from="1501225738881" duration="2000" />
       <workItem from="1501225962317" duration="665000" />
       <workItem from="1501226635244" duration="82000" />
-      <workItem from="1501226724298" duration="38000" />
+      <workItem from="1501226724298" duration="149000" />
     </task>
     <task id="LOCAL-00001" summary="tt">
       <created>1394374204109</created>
@@ -995,11 +1036,17 @@
       <option name="project" value="LOCAL" />
       <updated>1501226443370</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="项目名修改">
+      <created>1501226766039</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1501226766039</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1546000" />
+    <option name="totallyTimeSpent" value="1657000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1027,6 +1074,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947975" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30635837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38709676" sideWeight="0.5058824" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1050,13 +1098,20 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8520231" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947975" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30635837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38709676" sideWeight="0.49411765" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
