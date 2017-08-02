@@ -11,6 +11,7 @@
         <module>study-j2se</module>
         <module>study-designpattern</module>
       <module>study-netty</module>
+      <module>study-spring-cloud</module>
     </modules>
 
     <name>study</name>
