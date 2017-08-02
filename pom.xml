@@ -10,6 +10,7 @@
         <module>study-spring</module>
         <module>study-j2se</module>
         <module>study-designpattern</module>
+      <module>study-netty</module>
     </modules>
 
     <name>study</name>
