@@ -13,6 +13,7 @@
       <module>study-netty</module>
       <module>study-spring-cloud</module>
       <module>study-curator</module>
+      <module>study-spring-boot</module>
     </modules>
 
     <name>study</name>
