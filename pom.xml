@@ -14,6 +14,7 @@
       <module>study-spring-cloud</module>
       <module>study-curator</module>
       <module>study-spring-boot</module>
+      <module>study-rpc</module>
     </modules>
 
     <name>study</name>
