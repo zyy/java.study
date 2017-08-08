@@ -15,6 +15,7 @@
       <module>study-curator</module>
       <module>study-spring-boot</module>
       <module>study-rpc</module>
+      <module>study-protostuff</module>
     </modules>
 
     <name>study</name>
