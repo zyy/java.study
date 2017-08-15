@@ -16,6 +16,7 @@
       <module>study-spring-boot</module>
       <module>study-rpc</module>
       <module>study-protostuff</module>
+      <module>study-juc</module>
     </modules>
 
     <name>study</name>
