@@ -18,6 +18,7 @@
         <module>study-protostuff</module>
         <module>study-juc</module>
         <module>study-kafka</module>
+        <module>study-prometheus</module>
     </modules>
 
     <name>study</name>
